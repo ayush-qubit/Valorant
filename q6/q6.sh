@@ -1,13 +1,17 @@
 #!/bin/bash
 
-mapfile -t cusswords < cuss-words.txt
+read -p "Enter lyricsfilename: " lyrics
+read -p "Enter cusswordsfilename: " cuss
+
+mapfile -t cusswords < "$cuss"
 
 
-cp lyrics.txt output.txt
+cp "$lyrics" output.txt
 
-echo "${#cusswords[@]}"
+
 for i in "${cusswords[@]}"
 do
 	
 	sed -i "s/$i/bleep/gI" output.txt
 done
+
