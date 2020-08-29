@@ -1,9 +1,9 @@
 Team Valorant:
 
-Utkarsh Indolia (203050111 - utkarshindolia) - Problem 1,2
+Utkarsh Indolia (203050111 - utkarshindolia) - Problem 1,2,Extra
 Ayush Sharma (203050029 - ayushsharma) - Problem 3,4
-Vikrant Sharma (203050035 - vikrantsharma) - Problem 5,6
-Bharat Kumar Panwar (203050113 - nishkam) - Problem Extra 1,2
+Vikrant Sharma (203050035 - vikrantsharma) - Problem 5
+Bharat Kumar Panwar (203050113 - nishkam) - Problem 6
 
 Git Link:
 https://github.com/ayush-qubit/Valorant
